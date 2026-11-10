@@ -1,6 +1,6 @@
 # Kirill Podkovyrin
 
-Second-year MFAI student at Innopolis University. I work on practical machine-learning projects and scientific computing, with interests in robotics, computer vision, time-series analysis, and inverse problems.
+I work on practical machine-learning projects and scientific computing, with interests in robotics, computer vision, time-series analysis, and inverse problems.
 
 ## Robotics and simulation
 
